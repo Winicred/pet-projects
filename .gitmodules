@@ -4,3 +4,12 @@
 [submodule "auto-parts-store"]
 	path = auto-parts-store
 	url = https://github.com/Winicred/pet_auto-parts-store
+[submodule "flymessenger/flymessenger-web"]
+	path = flymessenger/flymessenger-web
+	url = https://github.com/Real-Time-Messenger/FlyMessenger-react
+[submodule "flymessenger/flymessenger-server"]
+	path = flymessenger/flymessenger-server
+	url = https://github.com/Real-Time-Messenger/FlyMessenger-server
+[submodule "flymessenger/flymessenger-desktop"]
+	path = flymessenger/flymessenger-desktop
+	url = https://github.com/Real-Time-Messenger/FlyMessenger-desktopclient
