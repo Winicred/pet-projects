@@ -6,3 +6,4 @@ This repository contains a collection of pet projects I have developed. Projects
 
 - [x] TODO list
 - [x] Auto parts store 
+- [x] Websocket chatting application
