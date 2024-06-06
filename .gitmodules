@@ -1,3 +1,6 @@
 [submodule "todo-list"]
 	path = todo-list
 	url = https://github.com/Winicred/pet__task-management
+[submodule "auto-parts-store"]
+	path = auto-parts-store
+	url = https://github.com/Winicred/pet_auto-parts-store
